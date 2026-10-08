@@ -57,11 +57,7 @@ B. Rohini Naga Krishnavi
 
 ---
 
-🔮 What's Next?
 
-This project currently focuses on numerical scrolling.
-
-Our next step is to explore alphabetic characters and scrolling messages
  
 
 ---
