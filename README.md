@@ -1,4 +1,4 @@
-🔢 Scrolling Four-Digit Seven-Segment Display
+#🔢 Scrolling Four-Digit Seven-Segment Display
 
 «A simple FPGA-based digital display project built using Verilog HDL.»
 
