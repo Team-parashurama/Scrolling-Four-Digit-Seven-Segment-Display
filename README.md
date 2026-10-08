@@ -6,7 +6,7 @@
 
 ✨ What is this?
 
-A small digital design project where we make a four-digit seven-segment display scroll through a sequence of numbers.
+A small digital design project where we make a four-digit seven-segment display scroll through a sequence of letters with respective their positions.
 
 The display continuously moves through:
 
